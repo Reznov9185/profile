@@ -1,3 +1,1 @@
 # my profile
-# test
-# atom
